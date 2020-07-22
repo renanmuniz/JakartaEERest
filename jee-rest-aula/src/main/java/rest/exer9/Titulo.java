@@ -11,7 +11,7 @@ public class Titulo {
 	
 	}
 
-	public Titulo(String sacado, Double valor) {
+	public Titulo(String sacado, double valor) {
 		super();
 		this.sacado = sacado;
 		this.valor = valor;
